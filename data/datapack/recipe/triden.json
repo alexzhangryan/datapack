@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "ingredients": [
+    [
+      "minecraft:ender_pearl"
+    ],
+    [
+      "minecraft:blaze_powder"
+    ]
+  ],
+  "pattern": [
+    "scs",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "s": [
+      "minecraft:prismarine_shard"
+    ],
+    "b": [
+      "minecraft:breeze_rod"
+    ],
+    "c": [
+      "minecraft:prismarine_crystals"
+    ]
+  },
+  "result": {
+    "id": "minecraft:trident"
+  }
+}

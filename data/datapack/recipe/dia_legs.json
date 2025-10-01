@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "ingredients": [
+    [
+      "minecraft:ender_pearl"
+    ],
+    [
+      "minecraft:blaze_powder"
+    ]
+  ],
+  "pattern": [
+    "dhd",
+    "d d",
+    "d d"
+  ],
+  "key": {
+    "d": "minecraft:diamond",
+    "h": "minecraft:heavy_core"
+  },
+  "result": {
+    "id": "minecraft:diamond_leggings"
+  }
+}

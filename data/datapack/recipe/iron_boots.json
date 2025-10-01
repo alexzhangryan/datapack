@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "ingredients": [
+    [
+      "minecraft:ender_pearl"
+    ],
+    [
+      "minecraft:blaze_powder"
+    ]
+  ],
+  "pattern": [
+    "dhd",
+    "d d"
+  ],
+  "key": {
+    "d": "minecraft:iron_ingot",
+    "h": "minecraft:honeycomb"
+  },
+  "result": {
+    "id": "minecraft:iron_boots"
+  }
+}

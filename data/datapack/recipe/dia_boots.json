@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "ingredients": [
+    [
+      "minecraft:ender_pearl"
+    ],
+    [
+      "minecraft:blaze_powder"
+    ]
+  ],
+  "pattern": [
+    "dhd",
+    "d d"
+  ],
+  "key": {
+    "d": "minecraft:diamond",
+    "h": "minecraft:totem_of_undying"
+  },
+  "result": {
+    "id": "minecraft:diamond_boots"
+  }
+}

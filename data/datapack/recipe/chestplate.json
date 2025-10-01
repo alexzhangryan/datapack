@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "d d",
+    "ded",
+    "ddd"
+  ],
+  "key": {
+    "d": "minecraft:diamond",
+    "e": "minecraft:ender_eye"
+  },
+  "result": {
+    "id": "minecraft:diamond_chestplate"
+  }
+}

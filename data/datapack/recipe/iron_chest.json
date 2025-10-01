@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "ingredients": [
+    [
+      "minecraft:ender_pearl"
+    ],
+    [
+      "minecraft:blaze_powder"
+    ]
+  ],
+  "pattern": [
+    "d d",
+    "dhd",
+    "ddd"
+  ],
+  "key": {
+    "d": "minecraft:iron_ingot",
+    "h": "minecraft:resin_clump"
+  },
+  "result": {
+    "id": "minecraft:iron_chestplate"
+  }
+}

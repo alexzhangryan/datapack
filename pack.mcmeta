@@ -1,0 +1,54 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Example datapack!"
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "minecraft",
+        "path": "recipe/ender_eye.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/diamond_chestplate.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/diamond_helmet.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/diamond_leggings.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/diamond_boots.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/iron_chestplate.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/iron_helmet.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/iron_leggings.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/iron_boots.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/iron_sword.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/diamond_sword.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "ingredients": [
+    [
+      "minecraft:ender_pearl"
+    ],
+    [
+      "minecraft:blaze_powder"
+    ]
+  ],
+  "pattern": [
+    " e ",
+    " d ",
+    " b "
+  ],
+  "key": {
+    "d": "minecraft:iron_ingot",
+    "e": "minecraft:amethyst_shard",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:iron_sword"
+  }
+}

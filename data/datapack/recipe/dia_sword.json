@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "ingredients": [
+    [
+      "minecraft:ender_pearl"
+    ],
+    [
+      "minecraft:blaze_powder"
+    ]
+  ],
+  "pattern": [
+    " e ",
+    " d ",
+    " b "
+  ],
+  "key": {
+    "d": "minecraft:diamond",
+    "e": "minecraft:echo_shard",
+    "b": "minecraft:blaze_rod"
+  },
+  "result": {
+    "id": "minecraft:diamond_sword"
+  }
+}
